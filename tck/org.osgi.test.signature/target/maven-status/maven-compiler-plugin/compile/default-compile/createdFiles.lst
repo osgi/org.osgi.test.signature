@@ -1,0 +1,6 @@
+org/osgi/test/signature/PoolEntry.class
+org/osgi/test/signature/ClassParser.class
+org/osgi/test/signature/SignatureChecker.class
+org/osgi/test/signature/package-info.class
+org/osgi/test/signature/AbstractSignatureTest.class
+org/osgi/test/signature/ParserCallback.class
